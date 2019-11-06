@@ -1,0 +1,12 @@
+Margarita Glass
+
+capacity: 12
+currentCapacity: 4
+isClean: false
+color: "Clear"
+material: "Glass"
+
+refillGlass: 12
+cleanGlass: true
+calculatePercentFull: 4/12 = .33333
+drinkFromGlass: 2
