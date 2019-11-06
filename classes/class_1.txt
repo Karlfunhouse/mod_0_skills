@@ -1,0 +1,17 @@
+Drinking Vessel Class
+
+Attributes:
+
+capacity (integer)
+currentCapacity (integer)
+isClean (boolean)
+color (string)
+material (string)
+
+
+Methods:
+
+refillGlass (makes currentCapacity = capacity)
+cleanGlass (sets isClean to true)
+calculatePercentFull (divides currentCapacity by capacity)
+drinkFromGlass (sets isClean to false)
