@@ -1,0 +1,13 @@
+12 oz Organic Grass Fed Medium Rare Filet Mignon
+
+animalType: "Beef"
+totalWeight: 12
+currentWeight: 9
+temperature: 128
+organic: true
+seasoning: [salt, garlic, rosemary, thyme]
+
+cookMediumRare: 128
+takeBite: 8
+checkIfOrganic: true
+addPepper: [salt, garlic, rosemary, thyme, pepper]

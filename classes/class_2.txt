@@ -1,0 +1,17 @@
+Meat Class
+
+Attributes:
+
+animalType: (string)
+totalWeight: (integer)
+currentWeight: (integer)
+temperature: (integer)
+organic: (boolean)
+seasoning: (array)
+
+Methods:
+
+cookMediumRare: (sets temperature to 128)
+takeBite: (-1 from weight)
+checkIfOrganic: (prints true or false)
+addPepper: (adds pepper to seasoning array)
